@@ -24,7 +24,7 @@
 
 <!-- Social Media -->
 ## 🤝🏽 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/dhruv-patel-a13950266)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-patel-a13950266)
 
 <!-- Tech Stack Section -->
 ## 💻 Tech Stack
