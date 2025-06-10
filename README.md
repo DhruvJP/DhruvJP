@@ -11,7 +11,7 @@
 
 <!-- What I'm Up To -->
 ## 🚀 Current Ventures
-- Building a certain project (🤫).
+- Building _______ (🤫).
 - Exploring THREE.js and Blender (🧐).
 
 
