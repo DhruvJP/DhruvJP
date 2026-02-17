@@ -11,8 +11,7 @@
 
 <!-- What I'm Up To -->
 ## 🚀 Current Ventures
-- Building _______ (🤫).
-- Exploring THREE.js and Blender (🧐).
+- Building projects I find intriguing.
 
 
 <!-- Another About Me / Hobbies -->
